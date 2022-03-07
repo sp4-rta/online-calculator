@@ -1,0 +1,48 @@
+* {
+    text-decoration: none;
+    background: rgb(255,235,205);
+    background: linear-gradient(90deg, rgba(255,235,205,1) 0%, rgba(252,215,159,1) 100%);
+}
+
+h1 {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 50px;
+}
+
+
+.container {
+    text-align: center;
+    margin-top: auto;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 30px;
+    border: 2px solid lightpink;
+    border-radius: 10px;
+}
+
+button {
+    font-size: 25px;
+    background-color:blanchedalmond;
+    width: 77px;
+    height: 60px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.button1 {
+    margin-top: 20px;
+}
+
+#screen {
+    width:312px;
+    height: 50px;
+}
+
+.calculator {
+    display: inline-block;
+}
